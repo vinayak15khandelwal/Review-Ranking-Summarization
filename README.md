@@ -1,5 +1,10 @@
 # Intelligent Review Ranking System Using Ant Colony Optimization with NLP-Based Feature Extraction
 
+## Problem Statement
+
+Online platforms generate a large number of user reviews, making it difficult for users to quickly identify the most relevant and informative feedback.
+
+This project proposes an intelligent review ranking and summarization framework that combines Ant Colony Optimization (ACO) with NLP-based feature extraction techniques. The system ranks reviews based on their importance and helps users access concise and meaningful information more efficiently.
 
 ## Project Overview
 
