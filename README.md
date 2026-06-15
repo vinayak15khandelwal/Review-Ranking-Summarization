@@ -10,7 +10,11 @@ This project proposes an intelligent review ranking and summarization framework 
 
 This project implements a review ranking system using Ant Colony Optimization (ACO) combined with Natural Language Processing (NLP). The objective is to rank product reviews based on importance using multiple extracted features.
 
----
+## System Architecture
+
+The proposed framework combines NLP-based feature extraction with Ant Colony Optimization to rank reviews according to their relevance and importance.
+
+![System Architecture](assets/system_architecture.png)
 
 ## Technologies Used
 
