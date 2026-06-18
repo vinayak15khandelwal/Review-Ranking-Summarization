@@ -156,6 +156,24 @@ The performance of the review ranking framework was evaluated using standard inf
 
 The results demonstrate that the Ant Colony Optimization based ranking framework effectively prioritizes informative reviews while maintaining strong ranking consistency.
 
+## Results Summary
+
+The Ant Colony Optimization (ACO) based review ranking framework significantly outperformed the equal-weight baseline model across all evaluation metrics.
+
+| Metric | Baseline | ACO |
+|----------|----------|----------|
+| Pearson Correlation | 0.295 | 0.377 |
+| Precision@K | 0.120 | 0.500 |
+| NDCG | 0.617 | 0.809 |
+| Overall Accuracy | 34.4% | 56.2% |
+
+### Key Findings
+
+- Achieved a 63.1% relative improvement in overall ranking performance.
+- Significantly improved the identification of helpful reviews.
+- Demonstrated the effectiveness of Ant Colony Optimization for feature-weight learning.
+- Outperformed traditional equal-weight ranking approaches.
+
 ## Notes
 
 * Ensure Excel file is closed before writing output
