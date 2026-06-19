@@ -195,8 +195,29 @@ The current review ranking framework can be further improved through the followi
 
 These enhancements can improve ranking quality, scalability, and practical deployment in real-world recommendation systems.
 
-### Author
+## Research Contributions
 
+This work introduces a lightweight and interpretable review ranking framework that combines Natural Language Processing (NLP) with Ant Colony Optimization (ACO).
+
+### Major Contributions
+
+- Developed a four-feature review quality model using:
+  - Sentiment Polarity (VADER)
+  - Review Length
+  - Helpfulness Ratio
+  - Temporal Freshness
+
+- Designed an Ant Colony Optimization based feature-weight learning framework.
+
+- Evaluated the system on 5,000 Amazon Electronics reviews.
+
+- Demonstrated significant improvements over a traditional equal-weight baseline.
+
+- Achieved improved ranking quality without requiring deep learning models or large annotated datasets.
+
+- Proposed a scalable approach suitable for e-commerce review analysis and recommendation systems.
+
+### Author
 VINAYAK KHANDELWAL 
 ---
 
