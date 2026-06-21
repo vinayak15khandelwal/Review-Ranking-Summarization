@@ -179,8 +179,6 @@ The Ant Colony Optimization (ACO) based review ranking framework significantly o
 * Ensure Excel file is closed before writing output
 * Dataset size can be adjusted in the loading script
 
----
-
 ## Future Enhancements
 
 The current review ranking framework can be further improved through the following enhancements:
