@@ -181,7 +181,7 @@ The Ant Colony Optimization (ACO) based review ranking framework significantly o
 
 ## Future Enhancements
 
-The current review ranking framework can be further improved through the following enhancements:
+The current review ranking framework can be further improved through the following:
 
 - Integration of Transformer-based sentiment analysis models such as BERT.
 - Support for multilingual review processing.
