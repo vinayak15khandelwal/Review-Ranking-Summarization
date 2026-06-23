@@ -195,7 +195,7 @@ These enhancements can improve ranking quality, scalability, and practical deplo
 
 ## Research Contributions
 
-This work introduces a lightweight and interpretable review ranking framework that combines Natural Language Processing (NLP) with Ant Colony Optimization (ACO).
+This work introduces a lightweight and interpretable review ranking framework that combines Natural Language Processing (NLP) with Ant Colony Optimization.
 
 ### Major Contributions
 
