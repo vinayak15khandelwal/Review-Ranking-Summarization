@@ -200,7 +200,7 @@ This work introduces a lightweight and interpretable review ranking framework th
 ### Major Contributions
 
 - Developed a four-feature review quality model using:
-  - Sentiment Polarity
+  - Sentiment Polarity (VADER)
   - Review Length
   - Helpfulness Ratio
   - Temporal Freshness
