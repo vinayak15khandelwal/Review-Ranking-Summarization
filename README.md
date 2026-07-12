@@ -179,17 +179,6 @@ The Ant Colony Optimization (ACO) based review ranking framework significantly o
 * Ensure Excel file is closed before writing output
 * Dataset size can be adjusted in the loading script
 
-## Future Enhancements
-
-The current review ranking framework can be further improved through the following:
-
-- Integration of Transformer-based sentiment analysis models such as BERT.
-- Support for multilingual review processing.
-- Real-time review ranking and dashboard visualization.
-- Hybrid optimization using Ant Colony Optimization and Genetic Algorithms.
-- Explainable AI techniques for ranking interpretation.
-- Large-scale evaluation on multiple e-commerce datasets.
-- Automated review summarization using abstractive NLP models.
 
 These enhancements can improve ranking quality, scalability, and practical deployment in real-world recommendation systems.
 
