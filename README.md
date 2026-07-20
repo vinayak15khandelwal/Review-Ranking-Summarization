@@ -167,7 +167,19 @@ The Ant Colony Optimization (ACO) based review ranking framework significantly o
 | NDCG | 0.617 | 0.809 |
 | Overall Accuracy | 34.4% | 56.2% |
 
+### Key Findings
 
+- Achieved a 63.1% relative improvement in overall ranking performance.
+- Significantly improved the identification of helpful reviews.
+- Demonstrated the effectiveness of Ant Colony Optimization for feature-weight learning.
+- Outperformed traditional equal-weight ranking approaches.
+
+## Notes
+
+* Ensure Excel file is closed before writing output
+* Dataset size can be adjusted in the loading script
+
+## Future Enhancements
 
 The current review ranking framework can be further improved through the following:
 
