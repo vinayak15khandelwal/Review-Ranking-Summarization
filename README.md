@@ -165,17 +165,7 @@ The Ant Colony Optimization (ACO) based review ranking framework significantly o
 - Significantly improved the identification of helpful reviews.
 - Demonstrated the effectiveness of Ant Colony Optimization for feature-weight learning.
 - Outperformed traditional equal-weight ranking approaches.
-
-## Notes
-
-* Ensure Excel file is closed before writing output
-* Dataset size can be adjusted in the loading script
-
-## Future Enhancements
-
-The current review ranking framework can be further improved through the following:
-
-- Integration of Transformer-based sentiment analysis models such as BERT.
+ analysis models such as BERT.
 - Support for multilingual review processing.
 - Real-time review ranking and dashboard visualization.
 - Hybrid optimization using Ant Colony Optimization and Genetic Algorithms.
